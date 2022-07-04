@@ -6,7 +6,7 @@ Computer-Science Student at TUM
 
 * 🌍  I'm based in Munich
 * ✉️  You can contact me at [yassir.elmarissi@tum.de](mailto:yassir.elmarissi@tum.de)
-* 🚀  I'm currently working on [DerAbiBot](http://https://github.com/YaRissi/DerAbiBot)
+* 🚀  I'm currently working on [DerAbiBot](https://github.com/YaRissi/DerAbiBot)
 * 🧠  I'm learning Python, Java, C#, HTML/JavaScript/CSS
 
 ### Skills
