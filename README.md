@@ -1,4 +1,4 @@
-Hi 👋 My name is Yassir Elmarissi
+Hi 👋 My name is Yassir
 =================================
 
 Computer-Science Student at TUM
