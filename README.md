@@ -1,7 +1,7 @@
 Hi 👋 My name is Yassir
 =================================
 
-Computer-Science Student at TUM
+Computer-Science Student at Munich University of Applied Sciences
 -------------------------------
 
 * 🌍  I'm based in Munich
