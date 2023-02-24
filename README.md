@@ -6,7 +6,7 @@ Computer-Science Student at Munich University of Applied Sciences
 
 * 🌍  I'm based in Munich
 * ✉️  You can contact me at [yassir.elmarissi@hm.edu](mailto:yassir.elmarissi@hm.edu)
-* 🚀  I'm currently working on [DerAbiBot](https://github.com/YaRissi/DerAbiBot)
+* 🚀  I'm currently working on [SubathonTimer](https://github.com/YaRissi/SubathonTimer)
 * 🧠  I'm learning Python, Java, C#, HTML/JavaScript/CSS
 
 ### Skills
