@@ -17,5 +17,8 @@ jobs:
           filename: metrics.base.svg
           config_timezone: Europe/Berlin
           plugin_lines: yes
-          plugin_languages: yes
-
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKAPI_KEY }}
+          plugin_wakatime_url: ${{ secrets.WAKAPI_URL }}
+          plugin_wakatime_sections: time,languages-graphs
+          plugin_wakatime_days: 30
