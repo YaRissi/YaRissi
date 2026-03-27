@@ -191,12 +191,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 34.224000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 34.144%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">43%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Html</span>
-                                <div class="bar" style="width: 3.592%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.5840000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
@@ -211,7 +211,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">Typescript</span>
-                                <div class="bar" style="width: 2.4719999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                         </div>
@@ -220,7 +220,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Mar 2026, 01:30:41 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Mar 2026, 01:30:47 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
